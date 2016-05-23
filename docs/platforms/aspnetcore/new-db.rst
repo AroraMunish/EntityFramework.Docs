@@ -54,7 +54,7 @@ Later in this walkthrough we will also be using some Entity Framework commands t
 
 .. literalinclude:: sample/src/EFGetStarted.AspNetCore.NewDb/project.json
       :linenos:
-      :lines: 26-33
+      :lines: 26-34
       :emphasize-lines: 2-8
 
 Create your model
